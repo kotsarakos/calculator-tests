@@ -20,8 +20,8 @@ This is a simple Python calculator project that implements basic arithmetic oper
 
 ```
 calculator/
-├── calculator.py          # Implementation of functions
-└── test_calculator.py     # Unit tests using pytest
+├── math_utils.py          # Implementation of functions
+└── test_math_utils.py     # Unit tests using pytest
 ```
 
 ## 🚀 Getting Started
